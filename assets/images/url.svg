@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="Group_1" data-name="Group 1" transform="translate(-896 -476)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(896 476)" fill="none" stroke="#cba25b" stroke-width="4">
+      <circle cx="42" cy="42" r="42" stroke="none"/>
+      <circle cx="42" cy="42" r="40" fill="none"/>
+    </g>
+    <text id="URL" transform="translate(917 527)" fill="#cba25b" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">URL</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background: linear-gradient(to right, #267871, #136a8a);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #output{
+        width: 20rem;
+        height: 20rem;
+        display:flex;
+        flex-wrap: wrap;
+        padding: 2rem;
+        background-color: #fff;
+        box-shadow: 0 3px 16px #121212;
+    }
+</style>
+
+<body>
+    <div id="output"></div>
+    <div>
+        <form id="info">
+            <input type="text" name="url"  value=""/>
+            <input type="number" name="age"  value=""/>
+            <input type="submit" value="send"/>
+        </form>
+    </div>
+    <button>show</button>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="ajax.js"></script>
+</body>
+
+</html>
